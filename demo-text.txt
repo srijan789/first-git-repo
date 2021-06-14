@@ -10,9 +10,13 @@ I've officially branched
 
 hahahahh bitch, edit from lappy after after pc
 
+<<<<<<< HEAD
 Day two hahaha, watchu gonna do
 
 removed something too
 
 what if it is a mistake?
 
+=======
+lololololllllll edit from pc
+>>>>>>> 2784c3ba1fc527f7e4ad2a24ed431fb7467ff45f
